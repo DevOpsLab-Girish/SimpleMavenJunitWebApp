@@ -1,1 +1,3 @@
 # SimpleMavenJunitWebApp
+
+test
